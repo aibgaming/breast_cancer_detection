@@ -79,9 +79,3 @@ sns.heatmap(df.corr(), cmap = "coolwarm", annot= True, annot_kws = {"fontsize":8
     
 ![png](output_8_1.png)
     
-
-
-
-```python
-
-```
